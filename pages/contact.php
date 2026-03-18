@@ -16,7 +16,7 @@ require __DIR__ . '/../partials/header.php';
       <div class="contact-info">
         <div class="contact-info-item">
           <i class="fa-solid fa-phone pulse-icon"></i>
-          <span>+254717136695</span>
+          <span>+254793669634</span>
         </div>
         <div class="contact-info-item">
           <i class="fa-regular fa-envelope pulse-icon"></i>
